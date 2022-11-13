@@ -2,10 +2,12 @@
 
 ## Creación del repositorio en GitHub
 He creado un repositorio privado con un README.md en GitHub.
+
 ![repo_creado](https://github.com/yeraimv/practica_git/blob/main/screenshots/repo_creado.png)
 
 ## Clonación del repositorio
-He clonado el repositorio en mi PC.
+He clonado el repositorio en mi PC con el siguiente comando
+
 ![clonar_repo.png](https://github.com/yeraimv/practica_git/blob/main/screenshots/clonar_repo.png?raw=true)
 
 ## Documentación
