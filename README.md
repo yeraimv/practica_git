@@ -20,4 +20,4 @@ para practicar `push`, `pull` y `commit`.
 También he cambiado el repositorio a público para que se pudiera ver a la hora de entregar la tarea.
 
 # IMPORTANTE
-La documentación del proceso repetido en GitLab estará en el README.md del propio GitLab
+La documentación del proceso repetido en GitLab estará en el [README.md del propio GitLab](URL)
